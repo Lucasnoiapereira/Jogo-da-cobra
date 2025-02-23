@@ -1,4 +1,4 @@
-#!pip install pygame
+#!pip install pygame #biblioteca usada 
 
 import pygame
 from pygame.locals import *
@@ -7,6 +7,8 @@ import time
 
 import pygame.locals
 
+
+#Definindo os tamanhos da janela do jogo
 WINDOW_WIDTH = 600
 WINDOW_HEIGHT = 600
 
